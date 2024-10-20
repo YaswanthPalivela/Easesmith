@@ -94,10 +94,6 @@ This project is open-source and licensed under the MIT License.
 Screenshots
 You can add screenshots from the app to showcase the UI here.
 
-Author
-Mavyax Tech Private Limited
-Feel free to contribute or raise issues if you encounter any bugs or would like to suggest improvements.
-
 Commands
 npm start: Starts the development server.
 npm run build: Builds the app for production.
